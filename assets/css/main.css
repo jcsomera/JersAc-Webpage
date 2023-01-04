@@ -231,7 +231,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .header {
-  padding: 15px 0;
+  padding: 6px 0;
   transition: all 0.5s;
   z-index: 997;
 }
@@ -585,7 +585,7 @@ section {
 }
 
 .hero-animated h2 {
-  margin: 0 0 10px 0;
+  margin: 10px 0 10px 0;
   font-size: 48px;
   font-weight: 300;
   color: var(--color-secondary);
